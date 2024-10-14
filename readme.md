@@ -4,4 +4,4 @@ git clone https://github.com/SUJON-BEVIES/TERMUX-SETUP
 
 cd TERMUX-SETUP 
 
-./setup
+python setup.py
